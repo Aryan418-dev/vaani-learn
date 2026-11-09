@@ -1,1 +1,1 @@
-PLACEHOLDER_TOO_LARGE
+export default { async fetch() { return new Response('Uploading full version...', {headers:{'Content-Type':'text/plain'}}); } };
